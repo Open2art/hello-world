@@ -1,3 +1,3 @@
 # hello-world
 Just another repository
-Future is bright. I'm reaching my goals.
+Future is bright. I'm reaching my goals.  
